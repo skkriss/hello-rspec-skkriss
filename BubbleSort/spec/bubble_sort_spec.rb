@@ -1,6 +1,5 @@
 require_relative '../lib/bubble_sort'
 require 'rspec'
-require 'simplecov'
 
 SimpleCov.start
 
