@@ -1,4 +1,4 @@
-require_relative '../lib/leap.rb'
+require_relative '../lib/leap'
 
 # Common test data version: 1.0.0 cc65ebe
 class Date

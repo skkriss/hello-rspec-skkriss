@@ -1,4 +1,4 @@
-require_relative '../lib/beer_song.rb'
+require_relative '../lib/beer_song'
 
 RSpec.describe '../lib/beer_song' do
   describe '#verse' do
