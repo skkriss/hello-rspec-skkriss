@@ -1,4 +1,4 @@
-require 'hamming'
+require '../lib/hamming.rb'
 
 describe Hamming do
   describe ".compute" do

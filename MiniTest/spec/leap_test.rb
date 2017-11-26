@@ -1,5 +1,4 @@
-require 'minitest/autorun'
-require_relative 'leap'
+require_relative '../lib/leap.rb'
 
 # Common test data version: 1.0.0 cc65ebe
 class Date

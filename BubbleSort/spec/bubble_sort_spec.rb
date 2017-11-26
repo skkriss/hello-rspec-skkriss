@@ -1,4 +1,4 @@
-require_relative '../lib/bubblesort.rb'
+require_relative '../lib/bubble_sort.rb'
 
 
 describe 'Bubble Sort' do
