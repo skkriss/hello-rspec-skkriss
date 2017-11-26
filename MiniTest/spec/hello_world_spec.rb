@@ -1,3 +1,5 @@
+require_relative '../lib/hello_world'
+
 begin
   gem 'minitest', '>= 5.0.0'
   require 'minitest/autorun'
