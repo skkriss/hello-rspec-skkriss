@@ -4,4 +4,4 @@ rvm:
 script:
   - bundle exec rspec MiniTest -fd
   - bundle exec rspec CodeQuizzes -fd
-  - bundle exec rspec QuickSort -fd
+  - bundle exec rspec BubbleSort -fd
